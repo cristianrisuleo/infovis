@@ -1,0 +1,25 @@
+Trabajo Práctico: Visualizando la oferta de Airbnb 
+en la Ciudad de Buenos Aires. 
+Objetivo: 
+El objetivo de este trabajo práctico es aplicar técnicas de análisis exploratorio y visualización 
+de datos sobre un conjunto de datos real, utilizando buenas prácticas vistas en la materia. 
+Los estudiantes deberán desarrollar habilidades para extraer, interpretar y comunicar 
+información relevante a través de gráficos eficaces. 
+Consigna 
+Utilizando el dataset listings.csv de Airbnb Buenos Aires, deberán: 
+1. Explorar y comprender el dataset. 
+○ Analizar los atributos disponibles: tipos de datos, valores nulos, variables 
+categóricas y numéricas, etc. 
+2. Realizar un análisis exploratorio de datos (EDA) 
+○ Detectar patrones generales, distribuciones, relaciones entre variables y 
+outliers. 
+3. Formular preguntas interesantes basadas en el dataset. 
+4. Visualizar los datos. 
+○ Crear visualizaciones estáticas o interactivas que respondan a las preguntas 
+planteadas. 
+○ Aplicar buenas prácticas en el diseño de gráficos: elección adecuada de tipos 
+de gráficos, escalas, colores, títulos, leyendas, etc. 
+5. Presentación oral en clase. 
+○ Preparar una presentación (10-15 minutos) para exponer el trabajo realizado, 
+las preguntas analizadas y las visualizaciones creadas. 
+○ Deben justificar sus decisiones de análisis y visualización.
